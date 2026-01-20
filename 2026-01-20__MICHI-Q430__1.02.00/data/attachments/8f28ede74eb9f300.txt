@@ -1,0 +1,4 @@
+current_song: 日本語Various Artists
+tmp_last_song: 
+elapse_time: 00:00
+tmp_elapsed: 00:00

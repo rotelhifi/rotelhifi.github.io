@@ -1,0 +1,12 @@
+current_song: 02.雪だるまつくろう
+tmp_last_song: 
+elapse_time: 00:52
+tmp_elapsed: 00:00
+log: []
+tmp_entry:02.雪だるまつくろう 00:52
+log: []
+log: []
+current_song: 02.雪だるまつくろう
+tmp_last_song: 
+elapse_time: 00:52
+tmp_elapsed: 00:52

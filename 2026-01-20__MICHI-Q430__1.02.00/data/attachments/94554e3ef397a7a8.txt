@@ -1,0 +1,4 @@
+current_song: アナと雪の女王ザ·ソングス
+tmp_last_song: 
+elapse_time: 小西のりゆき
+tmp_elapsed: 00:00

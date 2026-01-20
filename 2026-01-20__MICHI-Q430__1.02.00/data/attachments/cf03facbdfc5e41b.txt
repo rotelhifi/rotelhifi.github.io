@@ -1,0 +1,21 @@
+log: []
+runtime: ['アナと雪の女王ザ・ソングス 日本語Various Artists', '01.氷の心', '小西のりゆき', '00:01', '01:46', 'Track 01/26']
+current_song: 01.氷の心
+tmp_last_song: 
+elapse_time: 00:01
+tmp_elapsed: 00:00
+log: []
+tmp_entry:01.氷の心00:01
+log: []
+log: []
+log: []
+runtime: ['アナと雪の女王ザ・ソングス 日本語Various Artists', '01.氷の心', '小西のりゆき', '01:32', '01:46', 'Track 01/26']
+current_song: 01.氷の心
+tmp_last_song: 
+elapse_time: 01:32
+tmp_elapsed: 00:01
+log: []
+tmp_entry:01.氷の心00:01 01:32
+log: []
+log: []
+log: []

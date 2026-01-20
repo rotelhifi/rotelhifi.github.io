@@ -1,0 +1,19 @@
+runtime: ['アナと雪の女王ザ·ソングス 日本語Various Artists', '01.水の心', '小西のりゆき', '00:01', '01:46', 'Track 01/26']
+current_song: 01.水の心
+tmp_last_song: 
+elapse_time: 00:01
+tmp_elapsed: 00:00
+tmp_entry:['01.水の心', '00:01']
+runtime: ['アナと雪の女王ザ·ソングス 日本語Various Artists', '01.水の心', '小西のりゆき', '01:28', '01:46', 'Track 01/26']
+current_song: 01.水の心
+tmp_last_song: 
+elapse_time: 01:28
+tmp_elapsed: 00:01
+tmp_entry:['01.水の心', '00:01', '01:28']
+runtime: ['アナと雪の女王ザ・ソングス 日本語Various Artists', '02.雪だるまつくろう', '神田沙也加', '01:08', '03:28', 'Track 02/26']
+current_song: 02.雪だるまつくろう
+tmp_last_song: 
+elapse_time: 01:08
+tmp_elapsed: 00:01
+log: [['01.水の心', '00:01', '01:28']]
+tmp_entry:['02.雪だるまつくろう', '01:08']

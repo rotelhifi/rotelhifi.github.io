@@ -1,0 +1,49 @@
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+current_song: 01.Opening
+tmp_last_song: 
+elapse_time: 00:01
+tmp_elapsed: 00:00
+log: []
+tmp_entry:01.Opening 00:01
+log: []
+log: []
+current_song: 01.Opening
+tmp_last_song: 
+elapse_time: 01:28
+tmp_elapsed: 00:01
+log: []
+tmp_entry:01.Opening 00:01 01:28
+log: []
+log: []
+current_song: 02.腳踏車
+tmp_last_song: 
+elapse_time: 00:29
+tmp_elapsed: 00:01
+log: []
+new song: ['01.Opening 00:01 01:28'] 
+ 01.Opening 00:01 01:28
+tmp_entry:02.腳踏車 00:29
+log: ['01.Opening 00:01 01:28']
+log: ['01.Opening 00:01 01:28']
+current_song: 02.腳踏車
+tmp_last_song: 
+elapse_time: 01:56
+tmp_elapsed: 00:29
+log: ['01.Opening 00:01 01:28']
+tmp_entry:02.腳踏車 00:29 01:56
+log: ['01.Opening 00:01 01:28']
+log: ['01.Opening 00:01 01:28']
+current_song: 03.早操
+tmp_last_song: 
+elapse_time: 01:00
+tmp_elapsed: 00:29
+log: ['01.Opening 00:01 01:28']
+new song: ['01.Opening 00:01 01:28', '02.腳踏車 00:29 01:56'] 
+ 02.腳踏車 00:29 01:56
+tmp_entry:03.早操 01:00
+log: ['01.Opening 00:01 01:28', '02.腳踏車 00:29 01:56']
+log: ['01.Opening 00:01 01:28', '02.腳踏車 00:29 01:56']
+current_song: 03.早操
+tmp_last_song: 
+elapse_time: 01:00
+tmp_elapsed: 01:00

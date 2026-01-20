@@ -1,0 +1,26 @@
+current_song: 01.水の心
+tmp_last_song: 
+elapse_time: 00:24
+tmp_elapsed: 00:00
+log: []
+tmp_entry:01.水の心 00:24
+log: []
+log: []
+current_song: 02.雪だるまつくろう
+tmp_last_song: 
+elapse_time: 00:05
+tmp_elapsed: 00:24
+log: []
+new song: ['01.水の心 00:24'] 
+ 01.水の心 00:24
+tmp_entry:02.雪だるまつくろう 00:05
+log: ['01.水の心 00:24']
+log: ['01.水の心 00:24']
+current_song: 02.雪だるまつくろう
+tmp_last_song: 
+elapse_time: 01:33
+tmp_elapsed: 00:05
+log: ['01.水の心 00:24']
+tmp_entry:02.雪だるまつくろう 00:05 01:33
+log: ['01.水の心 00:24']
+log: ['01.水の心 00:24']

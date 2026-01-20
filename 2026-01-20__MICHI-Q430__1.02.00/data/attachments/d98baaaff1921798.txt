@@ -1,0 +1,30 @@
+current_song: 02.雪だるまつくろう
+tmp_last_song: 
+elapse_time: 03:09
+tmp_elapsed: 00:00
+log: []
+tmp_entry:02.雪だるまつくろう 03:09
+log: []
+log: []
+current_song: 03.生まれてはじめて
+tmp_last_song: 
+elapse_time: 01:10
+tmp_elapsed: 03:09
+log: []
+new song: ['02.雪だるまつくろう 03:09'] 
+ 02.雪だるまつくろう 03:09
+tmp_entry:03.生まれてはじめて 01:10
+log: ['02.雪だるまつくろう 03:09']
+log: ['02.雪だるまつくろう 03:09']
+current_song: 03.生まれてはじめて
+tmp_last_song: 
+elapse_time: 02:38
+tmp_elapsed: 01:10
+log: ['02.雪だるまつくろう 03:09']
+tmp_entry:03.生まれてはじめて 01:10 02:38
+log: ['02.雪だるまつくろう 03:09']
+log: ['02.雪だるまつくろう 03:09']
+current_song: 日本語Varlote
+tmp_last_song: 
+elapse_time: 小西のりゆき
+tmp_elapsed: 01:10

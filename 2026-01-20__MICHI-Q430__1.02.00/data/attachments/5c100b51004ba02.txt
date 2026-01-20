@@ -1,0 +1,40 @@
+current_song: 18.Gonna Fly Now(Jo
+tmp_last_song: 
+elapse_time: 00:28
+tmp_elapsed: 00:00
+log: []
+tmp_entry:18.Gonna Fly Now(Jo 00:28
+log: []
+log: []
+current_song: 18.Gonna Fly Now(Jo
+tmp_last_song: 
+elapse_time: 02:01
+tmp_elapsed: 00:28
+log: []
+tmp_entry:18.Gonna Fly Now(Jo 00:28 02:01
+log: []
+log: []
+current_song: 01.Gonna Fly Now(Th
+tmp_last_song: 
+elapse_time: 02:31
+tmp_elapsed: 00:28
+log: []
+new song: ['18.Gonna Fly Now(Jo 00:28 02:01'] 
+ 18.Gonna Fly Now(Jo 00:28 02:01
+tmp_entry:01.Gonna Fly Now(Th 02:31
+log: ['18.Gonna Fly Now(Jo 00:28 02:01']
+log: ['18.Gonna Fly Now(Jo 00:28 02:01']
+current_song: 02. Eye of the Tiger
+tmp_last_song: 
+elapse_time: 00:09
+tmp_elapsed: 02:31
+log: ['18.Gonna Fly Now(Jo 00:28 02:01']
+new song: ['18.Gonna Fly Now(Jo 00:28 02:01', '01.Gonna Fly Now(Th 02:31'] 
+ 01.Gonna Fly Now(Th 02:31
+tmp_entry:02. Eye of the Tiger 00:09
+log: ['18.Gonna Fly Now(Jo 00:28 02:01', '01.Gonna Fly Now(Th 02:31']
+log: ['18.Gonna Fly Now(Jo 00:28 02:01', '01.Gonna Fly Now(Th 02:31']
+current_song: 02. Eye of the Tiger
+tmp_last_song: 
+elapse_time: 00:09
+tmp_elapsed: 00:09

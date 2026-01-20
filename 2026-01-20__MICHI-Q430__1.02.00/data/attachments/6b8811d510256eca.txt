@@ -1,0 +1,47 @@
+init_track: 01
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 02
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 03
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 04
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 05
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 06
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 08
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 09
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 10
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 11
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 12
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 13
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 14
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 15
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 16
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 17
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 18
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 19
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 20
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 21
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 22
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 23
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 24
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+new_track: 25

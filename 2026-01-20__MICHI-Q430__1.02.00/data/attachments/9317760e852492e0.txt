@@ -1,0 +1,5 @@
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.
+current_song: 《不能說的秘密》電影原聲帶
+tmp_last_song: 
+elapse_time: 00:00
+tmp_elapsed: 00:00
