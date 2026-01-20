@@ -1,0 +1,11 @@
+dict: 1 Brightness ['High', 'Medium', 'Low']
+2
+transform: {'Brightness': 'Low', 'LED Brightness': 'Low'}
+scanned: Brightness, dict_text: Brightness, matches: 10
+scanned_setting_opt: Low
+matches: 0
+matches: 0
+matches: 3
+curr_opt_pos: 2
+0 2 2
+Can not open port!
