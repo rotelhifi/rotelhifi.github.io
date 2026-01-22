@@ -1,0 +1,10 @@
+dict: 2 Brightness ['High', 'Medium', 'Low']
+transform: {'Function': 'Spectrum 8', 'Brightness': 'Low', 'LED Brightness': 'High'}
+scanned: Function, dict_text: Brightness, matches: 0
+scanned: Brightness, dict_text: Brightness, matches: 10
+scanned_setting_opt: Low
+matches: 0
+matches: 0
+matches: 3
+curr_opt_pos: 2
+-2 0 2

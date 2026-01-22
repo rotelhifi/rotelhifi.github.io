@@ -1,0 +1,55 @@
+dict: 1 Input ['COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC', 'COMPACT DISC', 'PHONO', 'TUNER', 'AUX', 'XLR']
+transform: {'Input': 'COMPACT DISC', 'Name': 'CD PLAYER', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Input, matches: 5
+scanned_setting_opt: COMPACT DISC
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 1
+matches: 0
+matches: 1
+matches: 12
+curr_opt_pos: 9
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+1 10 9
+dict: 2 Name ['COAX 1', 'Custom']
+transform: {'Input': 'PHONO', 'Name': 'PHONO', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Name, matches: 0
+scanned: Name, dict_text: Name, matches: 4
+scanned_setting_opt: PHONO
+matches: 0
+matches: 0
+1 1 0
+32
+0
+32
+33
+32
+1
+30
+33
+-3
+26
+30
+-4
+32
+26
+6
+13
+32
+-19
+14
+13
+1
+24
+14
+10
+17
+24
+-7

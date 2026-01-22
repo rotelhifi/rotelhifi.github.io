@@ -1,0 +1,76 @@
+dict: 1 Input ['COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC', 'COMPACT DISC', 'PHONO', 'TUNER', 'AUX', 'XLR']
+transform: {'Input': 'ARC', 'Name': 'SONY TV', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Input, matches: 5
+scanned_setting_opt: ARC
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 3
+curr_opt_pos: 8
+matches: 1
+matches: 0
+matches: 0
+matches: 1
+matches: 0
+1 9 8
+dict: 2 Name ['COAX 1', 'Custom']
+['A', 'SETUP', 'Input', 'COMPACT DISC', 'Name', 'COMPACT DISC', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: SETUP
+delete: ['A', 'SETUP', 'Input', 'COMPACT DISC', 'Name', 'COMPACT DISC', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Input
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', 'Name', 'COMPACT DISC', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: COMPACT
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', 'COMPACT DISC', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Name
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', '', 'COMPACT DISC', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: COMPACT
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', '', 'COMPACT DISC', '', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Enabled
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', '', 'COMPACT DISC', '', 'Enabled', '', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Yes
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', '', 'COMPACT DISC', '', 'Enabled', '', 'Yes', '', 'Volume', 'Variable', 'Back']
+first chuck: Volume
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', '', 'COMPACT DISC', '', 'Enabled', '', 'Yes', '', 'Volume', '', 'Variable', 'Back']
+first chuck: Variable
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', '', 'COMPACT DISC', '', 'Enabled', '', 'Yes', '', 'Volume', '', 'Variable', '', 'Back']
+first chuck: Back
+ insert blank row ['A', 'SETUP', 'Input', '', 'COMPACT DISC', '', 'Name', '', 'COMPACT DISC', '', 'Enabled', '', 'Yes', '', 'Volume', '', 'Variable', '', 'Back', '']
+transform: {'SETUP': 'Input', '': 'Back'}
+scanned: SETUP, dict_text: Name, matches: 0
+scanned: , dict_text: Name, matches: 0
+scanned_setting_opt: 
+matches: 0
+matches: 0
+1 1 0
+15
+0
+15
+16
+15
+1
+1
+16
+-15
+28
+1
+27
+24
+28
+-4
+13
+24
+-11
+37
+13
+24
+17
+37
+-20
+30
+17
+13

@@ -1,0 +1,49 @@
+dict: 1 Input ['COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC', 'COMPACT DISC', 'PHONO', 'TUNER', 'AUX', 'XLR']
+transform: {'Input': 'COAX 1', 'Name': 'COAX 1', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Input, matches: 5
+scanned_setting_opt: COAX 1
+matches: 6
+curr_opt_pos: 0
+matches: 5
+matches: 5
+matches: 3
+matches: 2
+matches: 2
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 1
+0 0 0
+dict: 3 Enabled ['No', 'Yes']
+['A', 'SETUP', 'COAX 1', 'Input', 'Name', 'COAX 1', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: SETUP
+delete: ['A', 'SETUP', 'COAX 1', 'Input', 'Name', 'COAX 1', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: COAX
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', 'Name', 'COAX 1', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Input
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', 'COAX 1', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Name
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', '', 'COAX 1', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: COAX
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', '', 'COAX 1', '', 'Enabled', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Enabled
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', '', 'COAX 1', '', 'Enabled', '', 'Yes', 'Volume', 'Variable', 'Back']
+first chuck: Yes
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', '', 'COAX 1', '', 'Enabled', '', 'Yes', '', 'Volume', 'Variable', 'Back']
+first chuck: Volume
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', '', 'COAX 1', '', 'Enabled', '', 'Yes', '', 'Volume', '', 'Variable', 'Back']
+first chuck: Variable
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', '', 'COAX 1', '', 'Enabled', '', 'Yes', '', 'Volume', '', 'Variable', '', 'Back']
+first chuck: Back
+ insert blank row ['A', 'SETUP', 'COAX 1', '', 'Input', '', 'Name', '', 'COAX 1', '', 'Enabled', '', 'Yes', '', 'Volume', '', 'Variable', '', 'Back', '']
+transform: {'SETUP': 'COAX 1', '': 'Back'}
+scanned: SETUP, dict_text: Enabled, matches: 0
+scanned: , dict_text: Enabled, matches: 0
+scanned_setting_opt: 
+matches: 0
+matches: 0
+0 0 0

@@ -1,0 +1,35 @@
+dict: 6 PC-USB Decoding ['DSD/PCM 24B', 'PCM 32B Only']
+['SETUP', 'Bass', 'Treble', 'Balance', 'PC-USB Decoding', 'AUDIO', 'DSD/PCM 24B', 'HT Bypass', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: Bass
+ insert blank row ['SETUP', 'Bass', '', 'Treble', 'Balance', 'PC-USB Decoding', 'AUDIO', 'DSD/PCM 24B', 'HT Bypass', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: Treble
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', 'PC-USB Decoding', 'AUDIO', 'DSD/PCM 24B', 'HT Bypass', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: Balance
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', 'AUDIO', 'DSD/PCM 24B', 'HT Bypass', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: PC-USB
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', 'HT Bypass', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: AUDIO
+delete: ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', 'HT Bypass', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: DSD/PCM
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', '', 'HT Bypass', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: HT
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', '', 'HT Bypass', '', 'Disabled', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: Disabled
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', '', 'HT Bypass', '', 'Disabled', '', 'HT Bypass Level', 'Signal Sense', 'Disabled', 'Back']
+first chuck: HT
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', '', 'HT Bypass', '', 'Disabled', '', 'HT Bypass Level', '', 'Signal Sense', 'Disabled', 'Back']
+first chuck: Signal
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', '', 'HT Bypass', '', 'Disabled', '', 'HT Bypass Level', '', 'Signal Sense', '', 'Disabled', 'Back']
+first chuck: Disabled
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', '', 'HT Bypass', '', 'Disabled', '', 'HT Bypass Level', '', 'Signal Sense', '', 'Disabled', '', 'Back']
+first chuck: Back
+ insert blank row ['SETUP', 'Bass', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'AUDIO', 'DSD/PCM 24B', '', 'HT Bypass', '', 'Disabled', '', 'HT Bypass Level', '', 'Signal Sense', '', 'Disabled', '', 'Back', '']
+transform: {'Bass': '', 'Treble': '', 'Balance': '', 'PC-USB Decoding': '', 'AUDIO': 'DSD/PCM 24B', '': 'Back'}
+scanned: Bass, dict_text: PC-USB Decoding, matches: 0
+scanned: Treble, dict_text: PC-USB Decoding, matches: 0
+scanned: Balance, dict_text: PC-USB Decoding, matches: 0
+scanned: PC-USB Decoding, dict_text: PC-USB Decoding, matches: 15
+scanned_setting_opt: 
+matches: 0
+matches: 0
+1 1 0
