@@ -1,0 +1,36 @@
+current_song: 05.Smile
+tmp_last_song: 
+elapse_time: 00:01
+tmp_elapsed: 00:00
+log: []
+tmp_entry:05.Smile 00:01
+log: []
+log: []
+current_song: .Smile
+tmp_last_song: 
+elapse_time: 01:28
+tmp_elapsed: 00:01
+log: []
+tmp_entry:05.Smile 00:01 01:28
+log: []
+log: []
+current_song: .Smile
+tmp_last_song: 
+elapse_time: 00:10
+tmp_elapsed: 00:01
+log: []
+tmp_entry:05.Smile 00:01 01:28 00:10
+log: []
+log: []
+current_song: .Smile
+tmp_last_song: 
+elapse_time: 01:37
+tmp_elapsed: 00:01
+log: []
+tmp_entry:05.Smile 00:01 01:28 00:10 01:37
+log: []
+log: []
+current_song: Difierence a Day Makes
+tmp_last_song: 
+elapse_time: 00:12
+tmp_elapsed: 00:01

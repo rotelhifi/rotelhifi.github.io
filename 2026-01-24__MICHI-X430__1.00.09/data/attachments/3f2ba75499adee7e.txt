@@ -1,0 +1,38 @@
+current_song: 05.Smile
+tmp_last_song: 
+elapse_time: 00:02
+tmp_elapsed: 00:00
+log: []
+tmp_entry:05.Smile 00:02
+log: []
+log: []
+current_song: 05.Smile
+tmp_last_song: 
+elapse_time: 01:30
+tmp_elapsed: 00:02
+log: []
+tmp_entry:05.Smile 00:02 01:30
+log: []
+log: []
+current_song: 05.Smile
+tmp_last_song: 
+elapse_time: 03:04
+tmp_elapsed: 00:02
+log: []
+tmp_entry:05.Smile 00:02 01:30 03:04
+log: []
+log: []
+current_song: 06.Hey There
+tmp_last_song: 
+elapse_time: 01:11
+tmp_elapsed: 00:02
+log: []
+new song: ['05.Smile 00:02 01:30 03:04'] 
+ 05.Smile 00:02 01:30 03:04
+tmp_entry:06.Hey There 01:11
+log: ['05.Smile 00:02 01:30 03:04']
+log: ['05.Smile 00:02 01:30 03:04']
+current_song: What a Difierence a Day Makes
+tmp_last_song: 
+elapse_time: 00:00
+tmp_elapsed: 01:11

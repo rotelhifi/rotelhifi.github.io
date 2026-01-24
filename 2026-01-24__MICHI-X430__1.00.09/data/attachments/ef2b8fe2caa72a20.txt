@@ -1,0 +1,31 @@
+dict: 5 Balance ['L10', 'L9', 'L8', 'L7', 'L6', 'L5', 'L4', 'L3', 'L2', 'L1', '0', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10']
+0
+transform: {'Audio Mode': 'Tone Enable', 'Bass': '2', 'Treble': '2', 'Balance': 'L1', 'PC-USB Decoding': 'DSD/PCM 24B', 'HT Bypass': 'Disabled', 'HT Bypass Level': 'Signal Sense'}
+scanned: Audio Mode, dict_text: Balance, matches: 1
+scanned: Bass, dict_text: Balance, matches: 0
+scanned: Treble, dict_text: Balance, matches: 1
+scanned: Balance, dict_text: Balance, matches: 7
+scanned_setting_opt: L1
+matches: 0
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 2
+curr_opt_pos: 9
+matches: 0
+matches: 1
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+-9 0 9

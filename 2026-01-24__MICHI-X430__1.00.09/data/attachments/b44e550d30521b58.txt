@@ -1,0 +1,4 @@
+current_song: 05.Smile
+tmp_last_song: 
+elapse_time: 00:00
+tmp_elapsed: 00:00

@@ -1,0 +1,19 @@
+dict: 1 Function ['Off', 'VU Meter', 'VU Meter X2', 'VU Meter X4', 'VU Meter X8', 'VU Needle(Blue)', 'VU Needle(White)', 'Spectrum 8', 'Spectrum 12', 'Spectrum 16']
+2
+transform: {'Function': 'VU Meter X2', 'Brightness': 'High', 'LED Brightness': 'High'}
+scanned: Function, dict_text: Function, matches: 8
+scanned_setting_opt: VU Meter X2
+matches: 0
+matches: 0
+matches: 11
+curr_opt_pos: 2
+matches: 10
+curr_opt_pos: 3
+matches: 10
+curr_opt_pos: 4
+matches: 1
+matches: 0
+matches: 1
+matches: 2
+matches: 1
+-2 2 4

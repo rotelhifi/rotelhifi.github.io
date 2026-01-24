@@ -1,0 +1,38 @@
+current_song: 05.Smile
+tmp_last_song: 
+elapse_time: 00:03
+tmp_elapsed: 00:00
+log: []
+tmp_entry:05.Smile 00:03
+log: []
+log: []
+current_song: 05.Smile
+tmp_last_song: 
+elapse_time: 01:31
+tmp_elapsed: 00:03
+log: []
+tmp_entry:05.Smile 00:03 01:31
+log: []
+log: []
+current_song: 06.Hey There
+tmp_last_song: 
+elapse_time: 00:08
+tmp_elapsed: 00:03
+log: []
+new song: ['05.Smile 00:03 01:31'] 
+ 05.Smile 00:03 01:31
+tmp_entry:06.Hey There 00:08
+log: ['05.Smile 00:03 01:31']
+log: ['05.Smile 00:03 01:31']
+current_song: 06.Hey There
+tmp_last_song: 
+elapse_time: 01:36
+tmp_elapsed: 00:08
+log: ['05.Smile 00:03 01:31']
+tmp_entry:06.Hey There 00:08 01:36
+log: ['05.Smile 00:03 01:31']
+log: ['05.Smile 00:03 01:31']
+current_song: a Day Makes
+tmp_last_song: 
+elapse_time: 00:00
+tmp_elapsed: 00:08

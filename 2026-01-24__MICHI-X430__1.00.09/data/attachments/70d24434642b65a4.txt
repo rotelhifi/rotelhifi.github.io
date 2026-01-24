@@ -1,0 +1,30 @@
+dict: 3 Bass ['10', '9', '8', '7', '6', '5', '4', '3', '2', '1', '0', '-1', '-2', '-3', '-4', '-5', '-6', '-7', '-8', '-9', '-10']
+0
+transform: {'Max Volume': '96', 'Audio Mode': 'Tone Enable', 'Bass': '2', 'Treble': '2', 'Balance': 'L1', 'PC-USB Decoding': 'DSD/PCM 24B', 'HT Bypass': 'Disabled'}
+scanned: Max Volume, dict_text: Bass, matches: 0
+scanned: Audio Mode, dict_text: Bass, matches: 0
+scanned: Bass, dict_text: Bass, matches: 4
+scanned_setting_opt: 2
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 1
+curr_opt_pos: 8
+matches: 0
+matches: 0
+matches: 0
+matches: 1
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+-8 0 8

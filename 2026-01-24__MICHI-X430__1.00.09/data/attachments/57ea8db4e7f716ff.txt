@@ -1,0 +1,5 @@
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
