@@ -1,0 +1,31 @@
+dict: 1 Input ['COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC', 'COMPACT DISC', 'PHONO', 'TUNER', 'AUX', 'XLR']
+transform: {'Input': 'BLUETOOTH', 'Name': 'PHONE', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Input, matches: 5
+scanned_setting_opt: BLUETOOTH
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 9
+curr_opt_pos: 7
+matches: 0
+matches: 0
+matches: 1
+matches: 1
+matches: 0
+matches: 0
+1 8 7
+dict: 2 Name ['COAX 1', 'Custom']
+transform: {'Input': 'ARC', 'Name': 'ARC', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Name, matches: 0
+scanned: Name, dict_text: Name, matches: 4
+scanned_setting_opt: ARC
+matches: 0
+matches: 0
+1 1 0
+31
+0
+31

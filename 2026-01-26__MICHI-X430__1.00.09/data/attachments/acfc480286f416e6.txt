@@ -1,0 +1,30 @@
+dict: 1 Input ['COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC', 'COMPACT DISC', 'PHONO', 'TUNER', 'AUX', 'XLR']
+transform: {'Input': 'TUNER', 'Name': 'TUNER', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Input, matches: 5
+scanned_setting_opt: TUNER
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 1
+matches: 0
+matches: 0
+matches: 0
+matches: 5
+curr_opt_pos: 11
+matches: 0
+matches: 1
+0 11 11
+dict: 3 Enabled ['No', 'Yes']
+transform: {'Input': 'TUNER', 'Name': 'TUNER', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Enabled, matches: 0
+scanned: Name, dict_text: Enabled, matches: 0
+scanned: Enabled, dict_text: Enabled, matches: 7
+scanned_setting_opt: Yes
+matches: 0
+matches: 3
+curr_opt_pos: 1
+-1 0 1

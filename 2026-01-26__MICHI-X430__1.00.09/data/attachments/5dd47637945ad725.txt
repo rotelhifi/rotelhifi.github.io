@@ -1,0 +1,54 @@
+dict: 1 Input ['COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC', 'COMPACT DISC', 'PHONO', 'TUNER', 'AUX', 'XLR']
+transform: {'SOURCE': 'Input', 'COAX 1': 'Enabled', 'Yes': 'Volume', 'Variable': 'Back'}
+scanned: SOURCE, dict_text: Input, matches: 0
+scanned: COAX 1, dict_text: Input, matches: 0
+scanned: Yes, dict_text: Input, matches: 0
+scanned: Variable, dict_text: Input, matches: 0
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+1 1 0
+dict: 2 Name ['COAX 1', 'Custom']
+transform: {'Input': 'COAX 2', 'Name': 'COAX 2', 'Enabled': 'Yes', 'Volume': 'Variable'}
+scanned: Input, dict_text: Name, matches: 0
+scanned: Name, dict_text: Name, matches: 4
+scanned_setting_opt: COAX 2
+matches: 5
+matches: 1
+1 1 0
+31
+0
+31
+32
+31
+1
+30
+32
+-2
+17
+30
+-13
+13
+17
+-4
+25
+13
+12
+17
+25
+-8
+30
+17
+13

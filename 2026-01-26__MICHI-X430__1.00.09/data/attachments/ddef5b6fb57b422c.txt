@@ -1,0 +1,1 @@
+Connected to /dev/tty.PL2303-USBtoUART14330 at 115200 baud.

@@ -1,0 +1,11 @@
+dict: 1 Auto Power Off ['Disabled', '20 Mins', '1 Hour', '5 Hours', '12 Hours']
+transform: {'Auto Power Off': 'Disabled', 'Language': 'English', 'Software Update': 'USB', 'Factory Default': 'No'}
+scanned: Auto Power Off, dict_text: Auto Power Off, matches: 14
+scanned_setting_opt: Disabled
+matches: 8
+curr_opt_pos: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+1 1 0

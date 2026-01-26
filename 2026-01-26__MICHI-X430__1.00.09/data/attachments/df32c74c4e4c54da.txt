@@ -1,0 +1,8 @@
+dict: 6 PC-USB Decoding ['DSD/PCM 24B', 'PCM 32B Only']
+transform: {'POUSB Doooding': 'DSD/PCM 248', 'HT Bypass': 'Disabled', 'HT Bypass Level': 'Signal Sense', 'Disabled': 'Back'}
+scanned: POUSB Doooding, dict_text: PC-USB Decoding, matches: 10
+scanned_setting_opt: DSD/PCM 248
+matches: 10
+curr_opt_pos: 0
+matches: 0
+1 1 0

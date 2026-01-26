@@ -1,0 +1,11 @@
+dict: 6 PC-USB Decoding ['DSD/PCM 24B', 'PCM 32B Only']
+transform: {'Bass': '-1', 'Treble': '-1', 'Balance': 'L1', 'PC-USB Decoding': 'DSD/PCM 24B', 'HT Bypass': 'Disabled', 'HT Bypass Level': 'Signal Sense'}
+scanned: Bass, dict_text: PC-USB Decoding, matches: 0
+scanned: Treble, dict_text: PC-USB Decoding, matches: 0
+scanned: Balance, dict_text: PC-USB Decoding, matches: 0
+scanned: PC-USB Decoding, dict_text: PC-USB Decoding, matches: 15
+scanned_setting_opt: DSD/PCM 24B
+matches: 11
+curr_opt_pos: 0
+matches: 0
+1 1 0
