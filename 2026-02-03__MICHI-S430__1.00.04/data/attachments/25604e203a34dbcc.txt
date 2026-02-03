@@ -1,0 +1,12 @@
+dict: 3 LED Brightness ['High', 'Medium', 'Low']
+1
+transform: {'Function': 'VU Meter(Blue)', 'Brightness': 'High', 'LED Brightness': 'Low'}
+scanned: Function, dict_text: LED Brightness, matches: 0
+scanned: Brightness, dict_text: LED Brightness, matches: 10
+scanned: LED Brightness, dict_text: LED Brightness, matches: 14
+scanned_setting_opt: Low
+matches: 0
+matches: 0
+matches: 3
+curr_opt_pos: 2
+-1 1 2

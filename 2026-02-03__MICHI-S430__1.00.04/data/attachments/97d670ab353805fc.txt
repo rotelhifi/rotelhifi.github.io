@@ -1,0 +1,2 @@
+dict: 1 Auto Power Off ['Disabled', '20 Mins', '1 Hour', '5 Hours', '12 Hours']
+1

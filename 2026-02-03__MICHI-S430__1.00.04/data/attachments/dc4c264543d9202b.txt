@@ -1,0 +1,13 @@
+dict: 2 Brightness ['High', 'Medium', 'Low']
+1
+transform: {'Function': 'VU Meter(Blue)', 'Brightness': 'Low', 'LED Brightness': 'Low'}
+scanned: Function, dict_text: Brightness, matches: 0
+scanned: Brightness, dict_text: Brightness, matches: 10
+scanned_setting_opt: Low
+matches: 0
+matches: 0
+matches: 3
+curr_opt_pos: 2
+-1 1 2
+Connected to /dev/tty.PL2303G-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303G-USBtoUART14340 at 115200 baud.

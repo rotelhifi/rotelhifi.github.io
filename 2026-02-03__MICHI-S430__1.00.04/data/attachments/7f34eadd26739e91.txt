@@ -1,0 +1,1 @@
+dict: 1 Function ['Off', 'Power Meter', 'Power Meter X2', 'Power Meter X4', 'Power Meter X8', 'VU Meter(Blue)', 'VU Meter(White)', 'Spectrum 8', 'Spectrum 12', 'Spectrum 16']

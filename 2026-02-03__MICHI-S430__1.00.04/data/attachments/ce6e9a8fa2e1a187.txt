@@ -1,0 +1,31 @@
+dict: 2 Brightness ['High', 'Medium', 'Low']
+2
+['MCHI', 'SETUP', 'VU Meter(Blue', 'Function', 'High', 'Brightness', 'DISPLAY', 'High', 'LED Brightness', 'Back']
+first chuck: SETUP
+delete: ['MCHI', 'SETUP', 'VU Meter(Blue', 'Function', 'High', 'Brightness', 'DISPLAY', 'High', 'LED Brightness', 'Back']
+first chuck: VU
+ insert blank row ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', 'High', 'Brightness', 'DISPLAY', 'High', 'LED Brightness', 'Back']
+first chuck: Function
+ insert blank row ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', '', 'High', 'Brightness', 'DISPLAY', 'High', 'LED Brightness', 'Back']
+first chuck: High
+ insert blank row ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', '', 'High', '', 'Brightness', 'DISPLAY', 'High', 'LED Brightness', 'Back']
+first chuck: Brightness
+ insert blank row ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', '', 'High', '', 'Brightness', '', 'DISPLAY', 'High', 'LED Brightness', 'Back']
+first chuck: DISPLAY
+delete: ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', '', 'High', '', 'Brightness', '', 'DISPLAY', 'High', 'LED Brightness', 'Back']
+first chuck: High
+ insert blank row ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', '', 'High', '', 'Brightness', '', 'DISPLAY', 'High', '', 'LED Brightness', 'Back']
+first chuck: LED
+ insert blank row ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', '', 'High', '', 'Brightness', '', 'DISPLAY', 'High', '', 'LED Brightness', '', 'Back']
+first chuck: Back
+ insert blank row ['MCHI', 'SETUP', 'VU Meter(Blue', '', 'Function', '', 'High', '', 'Brightness', '', 'DISPLAY', 'High', '', 'LED Brightness', '', 'Back', '']
+transform: {'SETUP': 'VU Meter(Blue', '': 'DISPLAY', 'High': '', 'LED Brightness': '', 'Back': ''}
+scanned: SETUP, dict_text: Brightness, matches: 0
+scanned: , dict_text: Brightness, matches: 0
+scanned: High, dict_text: Brightness, matches: 0
+scanned: LED Brightness, dict_text: Brightness, matches: 10
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+2 2 0

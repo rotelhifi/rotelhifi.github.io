@@ -1,0 +1,11 @@
+dict: 4 Factory Default ['No', 'Yes']
+1
+transform: {'20 Mins': 'Auto POwer Off', 'English': 'Language', 'USB': 'Software Update', 'Yes': 'Factory Default'}
+scanned: 20 Mins, dict_text: Factory Default, matches: 0
+scanned: English, dict_text: Factory Default, matches: 0
+scanned: USB, dict_text: Factory Default, matches: 0
+scanned: Yes, dict_text: Factory Default, matches: 0
+scanned_setting_opt: 
+matches: 0
+matches: 0
+1 1 0

@@ -1,0 +1,31 @@
+dict: 1 Function ['Off', 'Power Meter', 'Power Meter X2', 'Power Meter X4', 'Power Meter X8', 'VU Meter(Blue)', 'VU Meter(White)', 'Spectrum 8', 'Spectrum 12', 'Spectrum 16']
+7
+['ETUP', 'Function', 'Spectrum 8', 'Brightness', 'High', 'LED Brightness', 'High', 'Back']
+first chuck: Function
+ insert blank row ['ETUP', 'Function', '', 'Spectrum 8', 'Brightness', 'High', 'LED Brightness', 'High', 'Back']
+first chuck: Spectrum
+ insert blank row ['ETUP', 'Function', '', 'Spectrum 8', '', 'Brightness', 'High', 'LED Brightness', 'High', 'Back']
+first chuck: Brightness
+ insert blank row ['ETUP', 'Function', '', 'Spectrum 8', '', 'Brightness', '', 'High', 'LED Brightness', 'High', 'Back']
+first chuck: High
+ insert blank row ['ETUP', 'Function', '', 'Spectrum 8', '', 'Brightness', '', 'High', '', 'LED Brightness', 'High', 'Back']
+first chuck: LED
+ insert blank row ['ETUP', 'Function', '', 'Spectrum 8', '', 'Brightness', '', 'High', '', 'LED Brightness', '', 'High', 'Back']
+first chuck: High
+ insert blank row ['ETUP', 'Function', '', 'Spectrum 8', '', 'Brightness', '', 'High', '', 'LED Brightness', '', 'High', '', 'Back']
+first chuck: Back
+ insert blank row ['ETUP', 'Function', '', 'Spectrum 8', '', 'Brightness', '', 'High', '', 'LED Brightness', '', 'High', '', 'Back', '']
+transform: {'Function': '', 'Spectrum 8': '', 'Brightness': '', 'High': '', 'LED Brightness': '', 'Back': ''}
+scanned: Function, dict_text: Function, matches: 8
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+7 7 0
