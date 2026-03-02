@@ -1,0 +1,1 @@
+dict: 1 Function ['Off', 'VU Meter', 'VU Meter X2', 'VU Meter X4', 'VU Meter X8', 'VU Needle(Blue)', 'VU Needle(White)', 'Spectrum 8', 'Spectrum 12', 'Spectrum 16']

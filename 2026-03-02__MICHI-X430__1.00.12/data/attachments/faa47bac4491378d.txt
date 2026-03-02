@@ -1,0 +1,37 @@
+45
+76
+31
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.
+76
+76
+0
