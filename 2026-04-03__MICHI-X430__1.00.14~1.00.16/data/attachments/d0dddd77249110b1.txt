@@ -1,0 +1,11 @@
+dict: 3 Software Update ['USB', 'Internet']
+0
+transform: {'VU Meter(White)': 'Visualizer', 'High': 'Back', 'LED Brightness': 'DISPLAY'}
+scanned: VU Meter(White), dict_text: Software Update, matches: 0
+scanned: High, dict_text: Software Update, matches: 0
+scanned: LED Brightness, dict_text: Software Update, matches: 1
+scanned_setting_opt: 
+matches: 0
+matches: 0
+0 0 0
+Connected to /dev/tty.PL2303-USBtoUART14340 at 115200 baud.

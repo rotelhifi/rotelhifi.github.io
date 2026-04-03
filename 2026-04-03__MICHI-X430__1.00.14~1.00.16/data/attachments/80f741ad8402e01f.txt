@@ -1,0 +1,11 @@
+dict: 3 Software Update ['USB', 'Internet']
+0
+transform: {'20 Mins': 'Auto Power Off', '60 English': 'Language', 'Software Update': 'SYSTEM', 'USB': 'Factory Default', 'No': 'Back'}
+scanned: 20 Mins, dict_text: Software Update, matches: 0
+scanned: 60 English, dict_text: Software Update, matches: 0
+scanned: Software Update, dict_text: Software Update, matches: 15
+scanned_setting_opt: SYSTEM
+matches: 0
+matches: 0
+0 0 0
+Can not open port!
