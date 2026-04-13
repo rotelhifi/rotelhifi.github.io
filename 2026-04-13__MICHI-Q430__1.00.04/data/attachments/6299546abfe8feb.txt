@@ -1,0 +1,33 @@
+dict: 3 Software Update ['USB', 'Internet']
+0
+['MICHT', 'SETUP', 'Auto Power Off', '20 Mins', 'Language00', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: SETUP
+delete: ['MICHT', 'SETUP', 'Auto Power Off', '20 Mins', 'Language00', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Auto
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', 'Language00', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: 20
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Language00
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: English
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', '', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: SYSTEM
+delete: ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', '', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Software
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: USB
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', 'No', 'Back']
+first chuck: Factory
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', 'Back']
+first chuck: No
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', '', 'Back']
+first chuck: Back
+ insert blank row ['MICHT', 'SETUP', 'Auto Power Off', '', '20 Mins', '', 'Language00', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', '', 'Back', '']
+transform: {'SETUP': 'Auto Power Off', '': 'SYSTEM', 'Software Update': '', 'USB': '', 'Factory Default': '', 'No': '', 'Back': ''}
+scanned: SETUP, dict_text: Software Update, matches: 0
+scanned: , dict_text: Software Update, matches: 0
+scanned: Software Update, dict_text: Software Update, matches: 15
+scanned_setting_opt: 
+matches: 0
+matches: 0
+0 0 0
