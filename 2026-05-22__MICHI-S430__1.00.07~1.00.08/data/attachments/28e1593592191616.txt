@@ -1,0 +1,13 @@
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Atualização concluída
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Reiniciar
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Atualização concluída É necessário reiniciar o sistema
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Pressione OK para reiniciar
+f_scan_msg_by_notes: line is Atualização concluída   Reiniciar   Atualização concluída É necessário reiniciar o sistema   Pressione OK para reiniciar   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

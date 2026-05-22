@@ -1,0 +1,9 @@
+------f_inform_result_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Keine Datei erkannt
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Abbrechen
+f_scan_msg_by_notes: line is Keine Datei erkannt   Abbrechen   
+f_excel_util: started_row: 3
+f_excel_util: i: 3 row: 8
+f_excel_util: one line write

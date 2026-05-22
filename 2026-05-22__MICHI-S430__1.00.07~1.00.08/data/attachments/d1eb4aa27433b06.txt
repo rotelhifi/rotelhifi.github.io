@@ -1,0 +1,32 @@
+dict: 3 Software Update ['USB']
+0
+['STHP', '1 Hour', 'Auto Power Off', 'English', 'Language', 'USB', 'SYSTEM Software Update', 'Factory Default', 'No', 'Back Ge0']
+first chuck: 1
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', 'English', 'Language', 'USB', 'SYSTEM Software Update', 'Factory Default', 'No', 'Back Ge0']
+first chuck: Auto
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', 'Language', 'USB', 'SYSTEM Software Update', 'Factory Default', 'No', 'Back Ge0']
+first chuck: English
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', 'USB', 'SYSTEM Software Update', 'Factory Default', 'No', 'Back Ge0']
+first chuck: Language
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', 'SYSTEM Software Update', 'Factory Default', 'No', 'Back Ge0']
+first chuck: USB
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'SYSTEM Software Update', 'Factory Default', 'No', 'Back Ge0']
+first chuck: SYSTEM
+delete: ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', 'Factory Default', 'No', 'Back Ge0']
+first chuck: Factory
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', 'Factory Default', '', 'No', 'Back Ge0']
+first chuck: No
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', 'Factory Default', '', 'No', '', 'Back Ge0']
+first chuck: Back
+ insert blank row ['STHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', 'Factory Default', '', 'No', '', 'Back Ge0', '']
+transform: {'1 Hour': '', 'Auto Power Off': '', 'English': '', 'Language': '', 'USB': '', 'Software Update': 'Factory Default', '': 'Back Ge0'}
+scanned: 1 Hour, dict_text: Software Update, matches: 0
+scanned: Auto Power Off, dict_text: Software Update, matches: 1
+scanned: English, dict_text: Software Update, matches: 0
+scanned: Language, dict_text: Software Update, matches: 2
+scanned: USB, dict_text: Software Update, matches: 0
+scanned: Software Update, dict_text: Software Update, matches: 15
+scanned_setting_opt: Factory Default
+matches: 0
+0 0 0
+Connected to /dev/tty.PL2303G-USBtoUART14140 at 115200 baud.

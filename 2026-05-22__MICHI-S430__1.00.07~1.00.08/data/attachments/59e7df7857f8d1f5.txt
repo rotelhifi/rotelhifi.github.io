@@ -1,0 +1,2 @@
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0

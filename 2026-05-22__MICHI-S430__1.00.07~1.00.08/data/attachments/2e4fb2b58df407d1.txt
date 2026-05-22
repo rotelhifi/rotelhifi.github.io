@@ -1,0 +1,33 @@
+dict: 3 Software Update ['USB']
+0
+['SP', '1 Hour', 'Auto Power Off', 'English', 'Language', 'USB', 'Software Update', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: 1
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', 'English', 'Language', 'USB', 'Software Update', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: Auto
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', 'Language', 'USB', 'Software Update', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: English
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', 'USB', 'Software Update', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: Language
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', 'Software Update', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: USB
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: Software
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', '', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: SYSTEM
+delete: ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', '', 'SYSTEM', 'Factory Default', 'No', 'Back e0']
+first chuck: Factory
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', '', 'SYSTEM', 'Factory Default', '', 'No', 'Back e0']
+first chuck: No
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', '', 'SYSTEM', 'Factory Default', '', 'No', '', 'Back e0']
+first chuck: Back
+ insert blank row ['SP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'USB', '', 'Software Update', '', 'SYSTEM', 'Factory Default', '', 'No', '', 'Back e0', '']
+transform: {'1 Hour': '', 'Auto Power Off': '', 'English': '', 'Language': '', 'USB': '', 'Software Update': '', 'SYSTEM': 'Factory Default', '': 'Back e0'}
+scanned: 1 Hour, dict_text: Software Update, matches: 0
+scanned: Auto Power Off, dict_text: Software Update, matches: 1
+scanned: English, dict_text: Software Update, matches: 0
+scanned: Language, dict_text: Software Update, matches: 2
+scanned: USB, dict_text: Software Update, matches: 0
+scanned: Software Update, dict_text: Software Update, matches: 15
+scanned_setting_opt: 
+matches: 0
+0 0 0

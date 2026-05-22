@@ -1,0 +1,31 @@
+dict: 3 Software Update ['USB']
+0
+['SETIP', 'Ruto Power Off', '1 Hour', 'Language', 'English', 'SYSTEM Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Ruto
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', 'Language', 'English', 'SYSTEM Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: 1
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', 'English', 'SYSTEM Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Language
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', '', 'English', 'SYSTEM Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: English
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: SYSTEM
+delete: ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', '', 'English', '', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: USB
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', '', 'English', '', 'Software Update', 'USB', '', 'Factory Default', 'No', 'Back']
+first chuck: Factory
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', '', 'English', '', 'Software Update', 'USB', '', 'Factory Default', '', 'No', 'Back']
+first chuck: No
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', '', 'English', '', 'Software Update', 'USB', '', 'Factory Default', '', 'No', '', 'Back']
+first chuck: Back
+ insert blank row ['SETIP', 'Ruto Power Off', '', '1 Hour', '', 'Language', '', 'English', '', 'Software Update', 'USB', '', 'Factory Default', '', 'No', '', 'Back', '']
+transform: {'Ruto Power Off': '', '1 Hour': '', 'Language': '', 'English': '', 'Software Update': 'USB', '': 'Back'}
+scanned: Ruto Power Off, dict_text: Software Update, matches: 1
+scanned: 1 Hour, dict_text: Software Update, matches: 0
+scanned: Language, dict_text: Software Update, matches: 2
+scanned: English, dict_text: Software Update, matches: 0
+scanned: Software Update, dict_text: Software Update, matches: 15
+scanned_setting_opt: USB
+matches: 3
+curr_opt_pos: 0
+0 0 0

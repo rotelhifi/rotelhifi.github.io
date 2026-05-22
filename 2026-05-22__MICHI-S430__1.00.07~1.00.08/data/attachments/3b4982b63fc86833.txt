@@ -1,0 +1,9 @@
+------f_inform_result_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Nie wykryto pliku
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Anuluj
+f_scan_msg_by_notes: line is Nie wykryto pliku   Anuluj   
+f_excel_util: started_row: 4
+f_excel_util: i: 4 row: 10
+f_excel_util: one line write

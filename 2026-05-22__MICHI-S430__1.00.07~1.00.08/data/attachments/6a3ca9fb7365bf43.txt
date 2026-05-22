@@ -1,0 +1,29 @@
+------f_check_for_update_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Kontrola dostupnosti aktualizace softwaru
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Zrušit
+f_scan_msg_by_notes: line is Kontrola dostupnosti aktualizace softwaru   Zrušit   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Stahování 23%
+f_scan_msg_by_notes: line is Stahování 23%
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Aktualizace dokončena
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Restart
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Aktualizace byla úspěšně dokončena Je nutné restartovat systém
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Stiskněte tlačítko OK pro restart zařízení
+f_scan_msg_by_notes: line is Aktualizace dokončena   Restart   Aktualizace byla úspěšně dokončena Je nutné restartovat systém   Stiskněte tlačítko OK pro restart zařízení   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

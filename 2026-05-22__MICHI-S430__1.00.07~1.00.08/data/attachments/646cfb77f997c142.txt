@@ -1,0 +1,11 @@
+dict: 3 Software Update ['USB']
+0
+transform: {'Auto Power Off': '1 Hour', 'Language': 'English', 'SYSTEM': 'Software Update', 'USB': 'Factory Default', 'Yes': 'Back'}
+scanned: Auto Power Off, dict_text: Software Update, matches: 1
+scanned: Language, dict_text: Software Update, matches: 2
+scanned: SYSTEM, dict_text: Software Update, matches: 0
+scanned: USB, dict_text: Software Update, matches: 0
+scanned: Yes, dict_text: Software Update, matches: 0
+scanned_setting_opt: 
+matches: 0
+0 0 0

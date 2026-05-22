@@ -1,0 +1,34 @@
+dict: 3 Software Update ['USB']
+0
+['SETUR', 'Auto Pwer Off', '1 Hour', 'Language', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Auto
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', 'Language', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: 1
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Language
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: English
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: SYSTEM
+delete: ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Software
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: USB
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', 'No', 'Back']
+first chuck: Factory
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', 'Back']
+first chuck: No
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', '', 'Back']
+first chuck: Back
+ insert blank row ['SETUR', 'Auto Pwer Off', '', '1 Hour', '', 'Language', '', 'English', '', 'SYSTEM', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', '', 'Back', '']
+transform: {'Auto Pwer Off': '', '1 Hour': '', 'Language': '', 'English': '', 'SYSTEM': 'Software Update', '': 'Back'}
+scanned: Auto Pwer Off, dict_text: Software Update, matches: 0
+scanned: 1 Hour, dict_text: Software Update, matches: 0
+scanned: Language, dict_text: Software Update, matches: 2
+scanned: English, dict_text: Software Update, matches: 0
+scanned: SYSTEM, dict_text: Software Update, matches: 0
+scanned: , dict_text: Software Update, matches: 0
+scanned_setting_opt: 
+matches: 0
+0 0 0
+Connected to /dev/tty.PL2303G-USBtoUART14140 at 115200 baud.

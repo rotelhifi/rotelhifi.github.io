@@ -1,0 +1,22 @@
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Checking for software update
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Cancel
+f_scan_msg_by_notes: line is Checking for software update   Cancel   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Downloading 56%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Cancel
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: 'pdate Complete
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Reboot
+f_scan_msg_by_notes: line is Downloading 56%   Cancel   'pdate Complete   Reboot   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

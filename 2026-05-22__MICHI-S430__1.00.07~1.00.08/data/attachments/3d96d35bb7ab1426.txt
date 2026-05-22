@@ -1,0 +1,33 @@
+dict: 3 Software Update ['USB']
+0
+['SEHP', '1 Hour', 'Auto Power Off', 'English', 'Language', 'Software Update', 'USB', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: 1
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', 'English', 'Language', 'Software Update', 'USB', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: Auto
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', 'Language', 'Software Update', 'USB', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: English
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', 'Software Update', 'USB', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: Language
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'Software Update', 'USB', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: Software
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'Software Update', '', 'USB', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: USB
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'Software Update', '', 'USB', '', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: SYSTEM
+delete: ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'Software Update', '', 'USB', '', 'SYSTEM', 'Factory Default', 'No', 'BackeG']
+first chuck: Factory
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'Software Update', '', 'USB', '', 'SYSTEM', 'Factory Default', '', 'No', 'BackeG']
+first chuck: No
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'Software Update', '', 'USB', '', 'SYSTEM', 'Factory Default', '', 'No', '', 'BackeG']
+first chuck: BackeG
+ insert blank row ['SEHP', '1 Hour', '', 'Auto Power Off', '', 'English', '', 'Language', '', 'Software Update', '', 'USB', '', 'SYSTEM', 'Factory Default', '', 'No', '', 'BackeG', '']
+transform: {'1 Hour': '', 'Auto Power Off': '', 'English': '', 'Language': '', 'Software Update': '', 'USB': '', 'SYSTEM': 'Factory Default', '': 'BackeG'}
+scanned: 1 Hour, dict_text: Software Update, matches: 0
+scanned: Auto Power Off, dict_text: Software Update, matches: 1
+scanned: English, dict_text: Software Update, matches: 0
+scanned: Language, dict_text: Software Update, matches: 2
+scanned: Software Update, dict_text: Software Update, matches: 15
+scanned_setting_opt: 
+matches: 0
+0 0 0
+Connected to /dev/tty.PL2303G-USBtoUART14140 at 115200 baud.

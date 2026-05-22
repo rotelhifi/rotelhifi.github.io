@@ -1,0 +1,9 @@
+------f_inform_result_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: No USB Flash Drive Detected
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Cancel
+f_scan_msg_by_notes: line is No USB Flash Drive Detected   Cancel   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

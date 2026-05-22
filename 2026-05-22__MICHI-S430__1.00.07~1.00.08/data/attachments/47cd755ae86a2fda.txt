@@ -1,0 +1,12 @@
+dict: 3 Software Update ['USB']
+0
+transform: {'Auto Power Off': '1 Hour', 'Language': 'English', 'SYSTEM': 'Software Update', 'USB': 'Factory Default', 'No': 'Back'}
+scanned: Auto Power Off, dict_text: Software Update, matches: 1
+scanned: Language, dict_text: Software Update, matches: 2
+scanned: SYSTEM, dict_text: Software Update, matches: 0
+scanned: USB, dict_text: Software Update, matches: 0
+scanned: No, dict_text: Software Update, matches: 0
+scanned_setting_opt: 
+matches: 0
+0 0 0
+Connected to /dev/tty.PL2303G-USBtoUART14140 at 115200 baud.
