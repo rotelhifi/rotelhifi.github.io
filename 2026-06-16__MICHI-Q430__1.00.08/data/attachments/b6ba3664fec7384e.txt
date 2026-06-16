@@ -1,0 +1,39 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Восстановление настроек по умолчанию
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Предупреждение: все настройки будут стерты
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Восстановить настройки по умолчанию
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Отменить
+f_scan_msg_by_notes: line is Восстановление настроек по умолчанию   Предупреждение: все настройки будут стерты   Восстановить настройки по умолчанию   Отменить   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Фабричные настройки восстановлены
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Перезапуск
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Заводские настройки восстановлены Необходима перезагрузка
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Нажмите ОК для перезапуска устройства
+f_scan_msg_by_notes: line is Фабричные настройки восстановлены   Перезапуск   Заводские настройки восстановлены Необходима перезагрузка   Нажмите ОК для перезапуска устройства   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

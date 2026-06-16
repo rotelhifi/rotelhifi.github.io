@@ -1,0 +1,45 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Pobieranie 3%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Anuluj
+f_scan_msg_by_notes: line is Pobieranie 3%   Anuluj   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Aktualizacja oprogramowania 12%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Ostrzeżenie: NIE wyłączaj urządzenia
+f_scan_msg_by_notes: line is Aktualizacja oprogramowania 12%   Ostrzeżenie: NIE wyłączaj urządzenia   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Aktualizacja zakończona
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Uruchom ponownie
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Wymagane jest ponowne uruchomienie systemu
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Naciśnij OK, aby uruchomić urządzenie ponownie
+f_scan_msg_by_notes: line is Aktualizacja zakończona   Uruchom ponownie   Wymagane jest ponowne uruchomienie systemu   Naciśnij OK, aby uruchomić urządzenie ponownie   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

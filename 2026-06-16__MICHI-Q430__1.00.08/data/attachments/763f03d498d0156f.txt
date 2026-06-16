@@ -1,0 +1,28 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_inform_result_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Ny programvara funnen: V100
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Nuvarande programvara: V100
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Uppdatera
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Avbryt
+f_scan_msg_by_notes: line is Ny programvara funnen: V100   Nuvarande programvara: V100   Uppdatera   Avbryt   
+f_excel_util: started_row: 7
+f_excel_util: i: 7 row: 16
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.

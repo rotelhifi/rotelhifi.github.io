@@ -1,0 +1,33 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_renew_ip_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: 12 Segundos
+f_scan_msg_by_notes: line is 12 Segundos
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write
+------f_confirm_renew_ip_result_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: OK
+f_scan_msg_by_notes: line is OK
+f_excel_util: started_row: 3
+f_excel_util: i: 3 row: 8
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.

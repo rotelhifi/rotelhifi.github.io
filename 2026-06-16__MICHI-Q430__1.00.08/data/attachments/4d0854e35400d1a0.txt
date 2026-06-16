@@ -1,0 +1,39 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Wiederherstellung der Werkseinstellungen
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Warnung: Alle Einstellungen werden gelöscht
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Wiederherstellen
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Abbrechen
+f_scan_msg_by_notes: line is Wiederherstellung der Werkseinstellungen   Warnung: Alle Einstellungen werden gelöscht   Wiederherstellen   Abbrechen   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Werkswiederherstellung abgeschlossen
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Neustarten
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Werkswiederherstellung abgeschlossen Neustart erforderlich
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Drücken Sie auf OK um das Gerät neu zu starten
+f_scan_msg_by_notes: line is Werkswiederherstellung abgeschlossen   Neustarten   Werkswiederherstellung abgeschlossen Neustart erforderlich   Drücken Sie auf OK um das Gerät neu zu starten   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

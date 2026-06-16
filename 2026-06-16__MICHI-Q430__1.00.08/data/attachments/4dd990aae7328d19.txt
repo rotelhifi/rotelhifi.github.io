@@ -1,0 +1,39 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Restaurar Ajustes de Fábrica
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Atención: todos los ajustes serán borrados
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Restaurar Ajustes
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Cancelar
+f_scan_msg_by_notes: line is Restaurar Ajustes de Fábrica   Atención: todos los ajustes serán borrados   Restaurar Ajustes   Cancelar   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Restablecimiento completado
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Reiniciar
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Restauración de fábrica completada Reinicio requerido
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Pulse OK para reiniciar el dispositivo
+f_scan_msg_by_notes: line is Restablecimiento completado   Reiniciar   Restauración de fábrica completada Reinicio requerido   Pulse OK para reiniciar el dispositivo   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

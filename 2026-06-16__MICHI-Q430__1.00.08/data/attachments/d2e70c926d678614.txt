@@ -1,0 +1,32 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_check_for_update_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Controllo aggiornamenti software
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Cancella
+f_scan_msg_by_notes: line is Controllo aggiornamenti software   Cancella   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_inform_result_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Nessuna unità USB rilevata
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Cancella
+f_scan_msg_by_notes: line is Nessuna unità USB rilevata   Cancella   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.

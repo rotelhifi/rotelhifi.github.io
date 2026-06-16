@@ -1,0 +1,45 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Downloaden 5%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Annuleren
+f_scan_msg_by_notes: line is Downloaden 5%   Annuleren   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Software aan het updaten 12%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Let op: Apparaat NIET uitschakelen
+f_scan_msg_by_notes: line is Software aan het updaten 12%   Let op: Apparaat NIET uitschakelen   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Update voltooid
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Opnieuw opstarten
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Update voltooid Apparaat opnieuw opstarten vereist
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Klik op OK om te herstarten
+f_scan_msg_by_notes: line is Update voltooid   Opnieuw opstarten   Update voltooid Apparaat opnieuw opstarten vereist   Klik op OK om te herstarten   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

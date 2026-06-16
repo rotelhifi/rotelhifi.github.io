@@ -1,0 +1,45 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Download in corso 4%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Cancella
+f_scan_msg_by_notes: line is Download in corso 4%   Cancella   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Aggiornamento software 12%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Attenzione: NON spegnere il dispositivo
+f_scan_msg_by_notes: line is Aggiornamento software 12%   Attenzione: NON spegnere il dispositivo   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Aggiornamento completato
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Riavvia
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: È necessario riavviare il sistema
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Premere OK per riavviare il dispositivo
+f_scan_msg_by_notes: line is Aggiornamento completato   Riavvia   È necessario riavviare il sistema   Premere OK per riavviare il dispositivo   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

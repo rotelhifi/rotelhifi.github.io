@@ -1,0 +1,39 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Obnovení továrního nastavení
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Upozorněni: Dojde k vymazání všech nastavení
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Obnovit výchozí nastavení
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Zrušit
+f_scan_msg_by_notes: line is Obnovení továrního nastavení   Upozorněni: Dojde k vymazání všech nastavení   Obnovit výchozí nastavení   Zrušit   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Tovární nastavení kompletní
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Restart
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Obnovení továrního nastavení bylo dokončeno Je nutné restartovat systém
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Stiskněte tlačitko OK pro restart zařizení
+f_scan_msg_by_notes: line is Tovární nastavení kompletní   Restart   Obnovení továrního nastavení bylo dokončeno Je nutné restartovat systém   Stiskněte tlačitko OK pro restart zařizení   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

@@ -1,0 +1,39 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Restauration des paramètres d'usine
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Avertissement : tous les réglages seront effacés
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Restaurer les paramètres par défaut
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Annuler
+f_scan_msg_by_notes: line is Restauration des paramètres d'usine   Avertissement : tous les réglages seront effacés   Restaurer les paramètres par défaut   Annuler   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Restauration des paramètres d'usine terminée
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Redémarrer
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: La restauration d'usine est terminée Redémarrage système requis
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Appuyez sur OK pour redémarrer l'appareil
+f_scan_msg_by_notes: line is Restauration des paramètres d'usine terminée   Redémarrer   La restauration d'usine est terminée Redémarrage système requis   Appuyez sur OK pour redémarrer l'appareil   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

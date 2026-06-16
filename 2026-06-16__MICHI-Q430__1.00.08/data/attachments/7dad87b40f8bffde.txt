@@ -1,0 +1,45 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Скачивание 6%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Отменить
+f_scan_msg_by_notes: line is Скачивание 6%   Отменить   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Идет обновление ПО 18%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Предупреждение: НЕ ВЫКЛЮЧАЙТЕ питание устройства
+f_scan_msg_by_notes: line is Идет обновление ПО 18%   Предупреждение: НЕ ВЫКЛЮЧАЙТЕ питание устройства   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Обновление завершено
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Перезапуск
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Необходим перезапуск системы
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Нажмите ОК для перезапуска устройства
+f_scan_msg_by_notes: line is Обновление завершено   Перезапуск   Необходим перезапуск системы   Нажмите ОК для перезапуска устройства   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

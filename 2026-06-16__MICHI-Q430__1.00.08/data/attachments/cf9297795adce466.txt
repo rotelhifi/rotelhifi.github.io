@@ -1,0 +1,39 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Przywracanie ustawień fabrycznych
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Ostrzezenie: wszystkie ustawienia zostana usuniete
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Przywróć ustawienia fabryczne
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Anuluj
+f_scan_msg_by_notes: line is Przywracanie ustawień fabrycznych   Ostrzezenie: wszystkie ustawienia zostana usuniete   Przywróć ustawienia fabryczne   Anuluj   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Przywracanie ustawień fabrycznych zakończone
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Uruchom ponownie
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Przywrócono ustawienia fabryczne Wymagany restart systemu
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Naciśnij OK, aby uruchomić urządzenie ponownie
+f_scan_msg_by_notes: line is Przywracanie ustawień fabrycznych zakończone   Uruchom ponownie   Przywrócono ustawienia fabryczne Wymagany restart systemu   Naciśnij OK, aby uruchomić urządzenie ponownie   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

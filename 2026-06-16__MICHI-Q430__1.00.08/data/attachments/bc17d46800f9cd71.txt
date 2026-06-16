@@ -1,0 +1,45 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: 下载中 4%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: 取消
+f_scan_msg_by_notes: line is 下载中 4%   取消   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: 软件更新 18%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: 警告：请勿关闭设备电源。
+f_scan_msg_by_notes: line is 软件更新 18%   警告：请勿关闭设备电源。   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: 更新完成
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: 更新完成。请重启系统。
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: 请按【确定】宣启设备。
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: 重启
+f_scan_msg_by_notes: line is 更新完成   更新完成。请重启系统。   请按【确定】宣启设备。   重启   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

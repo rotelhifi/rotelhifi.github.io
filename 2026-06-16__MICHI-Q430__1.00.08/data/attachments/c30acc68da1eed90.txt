@@ -1,0 +1,39 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: 恢复出厂设置
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: 警告：所有设置数据将要擦除
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: 确定
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: 取消
+f_scan_msg_by_notes: line is 恢复出厂设置   警告：所有设置数据将要擦除   确定   取消   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: 恢复出厂设置已完成
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: 重启
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: 恢复出厂设置已完成，设备需要重启
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: 请按【确定】重启设备
+f_scan_msg_by_notes: line is 恢复出厂设置已完成   重启   恢复出厂设置已完成，设备需要重启   请按【确定】重启设备   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write

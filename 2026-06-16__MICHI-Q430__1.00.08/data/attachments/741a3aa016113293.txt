@@ -1,0 +1,46 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Downloading 6%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Cancel
+f_scan_msg_by_notes: line is Downloading 6%   Cancel   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Updating Software 12%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Warning: Do NOT power off the device
+f_scan_msg_by_notes: line is Updating Software 12%   Warning: Do NOT power off the device   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Update Complete
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Reboot
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Update is complete System reboot is required
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Push OK to restart the device
+f_scan_msg_by_notes: line is Update Complete   Reboot   Update is complete System reboot is required   Push OK to restart the device   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.

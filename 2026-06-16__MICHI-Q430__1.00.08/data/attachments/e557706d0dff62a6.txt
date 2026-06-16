@@ -1,0 +1,45 @@
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14140 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Herunterladen 11%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Abbrechen
+f_scan_msg_by_notes: line is Herunterladen 11%   Abbrechen   
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Software wird aktualisiert 12%
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Warnung: Schalten Sie das Gerät NICHT aus
+f_scan_msg_by_notes: line is Software wird aktualisiert 12%   Warnung: Schalten Sie das Gerät NICHT aus   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Update komplett
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Neustart
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: System-Neustart wird empfohlen
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Drücken Sie OK um das Gerät neu zu starten
+f_scan_msg_by_notes: line is Update komplett   Neustart   System-Neustart wird empfohlen   Drücken Sie OK um das Gerät neu zu starten   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write
