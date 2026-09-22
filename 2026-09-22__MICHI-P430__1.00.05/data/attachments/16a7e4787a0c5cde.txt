@@ -1,0 +1,63 @@
+dict: 5 Balance ['L10', 'L9', 'L8', 'L7', 'L6', 'L5', 'L4', 'L3', 'L2', 'L1', '0', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10']
+0
+['LTUP', 'Audio Mode', 'Tone Enable', 'Bass', '+1', 'Treble', '+1', 'Balance', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: Audio
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', 'Bass', '+1', 'Treble', '+1', 'Balance', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: Tone
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '+1', 'Treble', '+1', 'Balance', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: Bass
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', 'Treble', '+1', 'Balance', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: +1
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '+1', 'Balance', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: Treble
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', 'Balance', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: +1
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: Balance
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: L1
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: PC-USB
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: DSD/PCM
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: HT
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: XLR
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', '', 'HT Bypass Level', 'Signal Sense', 'COAX 1']
+first chuck: HT
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', '', 'HT Bypass Level', '', 'Signal Sense', 'COAX 1']
+first chuck: Signal
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', '', 'HT Bypass Level', '', 'Signal Sense', '', 'COAX 1']
+first chuck: COAX
+ insert blank row ['LTUP', 'Audio Mode', '', 'Tone Enable', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'L1', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', '', 'HT Bypass Level', '', 'Signal Sense', '', 'COAX 1', '']
+transform: {'Audio Mode': '', 'Tone Enable': '', 'Bass': '', '+1': '', 'Treble': '', 'Balance': '', 'L1': '', 'PC-USB Decoding': '', 'DSD/PCM 24B': '', 'HT Bypass': '', 'XLR': '', 'HT Bypass Level': '', 'Signal Sense': '', 'COAX 1': ''}
+scanned: Audio Mode, dict_text: Balance, matches: 1
+scanned: Tone Enable, dict_text: Balance, matches: 2
+scanned: Bass, dict_text: Balance, matches: 0
+scanned: +1, dict_text: Balance, matches: 0
+scanned: Treble, dict_text: Balance, matches: 1
+scanned: Balance, dict_text: Balance, matches: 7
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+0 0 0

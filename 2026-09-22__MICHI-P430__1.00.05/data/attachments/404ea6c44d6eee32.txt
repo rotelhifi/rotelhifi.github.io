@@ -1,0 +1,44 @@
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Fabrieksinstellingen herstellen
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Let op: Alle instellingen worden gewist
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Herstellen
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Annuleren
+f_scan_msg_by_notes: line is Fabrieksinstellingen herstellen   Let op: Alle instellingen worden gewist   Herstellen   Annuleren   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Fabrieksinstelling vottooid
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Opnieuw opstarten
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Fabrieksinstelling voltooid Apparaat opnieuw opstarten vereist
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: KI OD OK On 1o 1
+f_scan_msg_by_notes: line is Fabrieksinstelling vottooid   Opnieuw opstarten   Fabrieksinstelling voltooid Apparaat opnieuw opstarten vereist   KI OD OK On 1o 1   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.

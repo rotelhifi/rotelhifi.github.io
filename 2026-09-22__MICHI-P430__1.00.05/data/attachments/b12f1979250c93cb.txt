@@ -1,0 +1,19 @@
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0

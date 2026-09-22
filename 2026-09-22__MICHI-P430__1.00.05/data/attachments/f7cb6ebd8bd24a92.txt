@@ -1,0 +1,44 @@
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+------f_confirm_restore_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Obnovení továrního nastavení
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Upozornění: Dojde k vymazání všech nastavení
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Obnovit výchozí nastavení
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Zrusit
+f_scan_msg_by_notes: line is Obnovení továrního nastavení   Upozornění: Dojde k vymazání všech nastavení   Obnovit výchozí nastavení   Zrusit   
+f_excel_util: started_row: 0
+f_excel_util: i: 0 row: 2
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+------f_confirm_reboot_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Tovární nastavení kompletní
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Restart
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: Obnoveni továrniho nastaveni dekonteno, Restartujte systém
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Stiskněte tlačítko OK pro restart zarízení
+f_scan_msg_by_notes: line is Tovární nastavení kompletní   Restart   Obnoveni továrniho nastaveni dekonteno, Restartujte systém   Stiskněte tlačítko OK pro restart zarízení   
+f_excel_util: started_row: 1
+f_excel_util: i: 1 row: 4
+f_excel_util: one line write
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.

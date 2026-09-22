@@ -1,0 +1,12 @@
+dict: 4 Factory Default ['No', 'Yes']
+1
+transform: {'Auto Power Off': 'Disabłed', 'Language': 'English', 'Software Update': 'USB', 'Factory Default': 'No'}
+scanned: Auto Power Off, dict_text: Factory Default, matches: 3
+scanned: Language, dict_text: Factory Default, matches: 0
+scanned: Software Update, dict_text: Factory Default, matches: 1
+scanned: Factory Default, dict_text: Factory Default, matches: 15
+scanned_setting_opt: No
+matches: 2
+curr_opt_pos: 0
+matches: 0
+1 1 0

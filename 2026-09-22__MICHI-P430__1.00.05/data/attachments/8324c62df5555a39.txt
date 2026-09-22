@@ -1,0 +1,65 @@
+dict: 4 Treble ['+10', '+9', '+8', '+7', '+6', '+5', '+4', '+3', '+2', '+1', '0', '-1', '-2', '-3', '-4', '-5', '-6', '-7', '-8', '-9', '-10']
+0
+['TUP', 'Max Volume', '80', 'Audio Mode', 'Tone', 'Erabłe', 'Bass', '+1', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: Max
+ insert blank row ['TUP', 'Max Volume', '', '80', 'Audio Mode', 'Tone', 'Erabłe', 'Bass', '+1', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: 80
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', 'Tone', 'Erabłe', 'Bass', '+1', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: Audio
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', 'Erabłe', 'Bass', '+1', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: Tone
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', 'Bass', '+1', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: Erabłe
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '+1', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: Bass
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: +1
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: Treble
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: +1
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: Balance
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: PC-USB
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: DSD/PCM
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', 'XLR', 'HT Bypass Level']
+first chuck: HT
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', 'HT Bypass Level']
+first chuck: XLR
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', '', 'HT Bypass Level']
+first chuck: HT
+ insert blank row ['TUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone', '', 'Erabłe', '', 'Bass', '', '+1', '', 'Treble', '', '+1', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', '', 'HT Bypass Level', '']
+transform: {'Max Volume': '', '80': '', 'Audio Mode': '', 'Tone': '', 'Erabłe': '', 'Bass': '', '+1': '', 'Treble': '', 'Balance': '', 'PC-USB Decoding': '', 'DSD/PCM 24B': '', 'HT Bypass': '', 'XLR': '', 'HT Bypass Level': ''}
+scanned: Max Volume, dict_text: Treble, matches: 1
+scanned: 80, dict_text: Treble, matches: 0
+scanned: Audio Mode, dict_text: Treble, matches: 1
+scanned: Tone, dict_text: Treble, matches: 1
+scanned: Erabłe, dict_text: Treble, matches: 3
+scanned: Bass, dict_text: Treble, matches: 0
+scanned: +1, dict_text: Treble, matches: 0
+scanned: Treble, dict_text: Treble, matches: 6
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+0 0 0

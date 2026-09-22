@@ -1,0 +1,35 @@
+dict: 1 Auto Power Off ['Disabled', '20 Mins', '1 Hour', '5 Hours', '12 Hours']
+1
+['Auto Power Off', '20 Mins', 'Language', 'English', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: 20
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', 'English', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Language
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', '', 'English', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: English
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', '', 'English', '', 'Software Update', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: Software
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', '', 'English', '', 'Software Update', '', 'USB', 'Factory Default', 'No', 'Back']
+first chuck: USB
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', '', 'English', '', 'Software Update', '', 'USB', '', 'Factory Default', 'No', 'Back']
+first chuck: Factory
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', '', 'English', '', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', 'Back']
+first chuck: No
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', '', 'English', '', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', '', 'Back']
+first chuck: Back
+ insert blank row ['Auto Power Off', '20 Mins', '', 'Language', '', 'English', '', 'Software Update', '', 'USB', '', 'Factory Default', '', 'No', '', 'Back', '']
+transform: {'20 Mins': '', 'Language': '', 'English': '', 'Software Update': '', 'USB': '', 'Factory Default': '', 'No': '', 'Back': ''}
+scanned: 20 Mins, dict_text: Auto Power Off, matches: 0
+scanned: Language, dict_text: Auto Power Off, matches: 0
+scanned: English, dict_text: Auto Power Off, matches: 0
+scanned: Software Update, dict_text: Auto Power Off, matches: 1
+scanned: USB, dict_text: Auto Power Off, matches: 0
+scanned: Factory Default, dict_text: Auto Power Off, matches: 3
+scanned: No, dict_text: Auto Power Off, matches: 0
+scanned: Back, dict_text: Auto Power Off, matches: 0
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+1 1 0

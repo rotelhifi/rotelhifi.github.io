@@ -1,0 +1,1 @@
+Before：['bypass=off$', 'bass=+10$', 'treble=-10$', 'balance=r10$'] After: ['bypass=off$', 'bass=+10$', 'treble=-10$', 'balance=r10$']

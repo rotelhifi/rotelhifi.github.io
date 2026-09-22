@@ -1,0 +1,40 @@
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+------f_download_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Descargando 13%
+f_scan_msg_by_notes: line is Descargando 13%
+f_excel_util: started_row: 8
+f_excel_util: i: 8 row: 18
+f_excel_util: one line write
+------f_update_software_localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Atualizando Software 0%
+f_scan_msg_by_notes: line is Atualizando Software 0%
+f_excel_util: started_row: 9
+f_excel_util: i: 9 row: 20
+f_excel_util: one line write
+------f_complete_update__localized_text------
+f_scan_msg_by_note: row 0
+f_scan_msg_by_note: scanned_text: Actualización Completada
+f_scan_msg_by_note: row 1
+f_scan_msg_by_note: scanned_text: Reiniciar
+f_scan_msg_by_note: row 2
+f_scan_msg_by_note: scanned_text: La actualización ha sido completada Se requiere reiniciar el sistema
+f_scan_msg_by_note: row 3
+f_scan_msg_by_note: scanned_text: Pulse OK para reiniciar el dispositivo
+f_scan_msg_by_notes: line is Actualización Completada   Reiniciar   La actualización ha sido completada Se requiere reiniciar el sistema   Pulse OK para reiniciar el dispositivo   
+f_excel_util: started_row: 10
+f_excel_util: i: 10 row: 22
+f_excel_util: one line write

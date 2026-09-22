@@ -1,0 +1,21 @@
+dict: 9 Signal Sense ['Disabled', 'COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC']
+7
+transform: {'RC-USB Decoding': 'DSD/PCM 24R', 'HT Bypass': 'AUX', 'HT Bypass Level': '-1', 'Signal Sense': 'Disabled'}
+scanned: RC-USB Decoding, dict_text: Signal Sense, matches: 0
+scanned: HT Bypass, dict_text: Signal Sense, matches: 1
+scanned: HT Bypass Level, dict_text: Signal Sense, matches: 2
+scanned: Signal Sense, dict_text: Signal Sense, matches: 12
+scanned_setting_opt: Disabled
+matches: 8
+curr_opt_pos: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+7 7 0
+Can not open port!

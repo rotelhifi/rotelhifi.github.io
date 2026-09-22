@@ -1,0 +1,56 @@
+dict: 3 Bass ['10', '9', '8', '7', '6', '5', '4', '3', '2', '1', '0', '-1', '-2', '-3', '-4', '-5', '-6', '-7', '-8', '-9', '-10']
+0
+['ETUP', 'Max Volume', '80', 'Audio Mode', 'Tone Enabłe', 'Bass', '+1', 'Treble', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: Max
+ insert blank row ['ETUP', 'Max Volume', '', '80', 'Audio Mode', 'Tone Enabłe', 'Bass', '+1', 'Treble', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: 80
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', 'Tone Enabłe', 'Bass', '+1', 'Treble', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: Audio
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', 'Bass', '+1', 'Treble', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: Tone
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '+1', 'Treble', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: Bass
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', 'Treble', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: +1
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', '', 'Treble', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: Treble
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', '', 'Treble', '', 'Balance', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: Balance
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: PC-USB
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', 'HT Bypass', 'XLR']
+first chuck: DSD/PCM
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', 'XLR']
+first chuck: HT
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR']
+first chuck: XLR
+ insert blank row ['ETUP', 'Max Volume', '', '80', '', 'Audio Mode', '', 'Tone Enabłe', '', 'Bass', '', '+1', '', 'Treble', '', 'Balance', '', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'HT Bypass', '', 'XLR', '']
+transform: {'Max Volume': '', '80': '', 'Audio Mode': '', 'Tone Enabłe': '', 'Bass': '', '+1': '', 'Treble': '', 'Balance': '', 'PC-USB Decoding': '', 'DSD/PCM 24B': '', 'HT Bypass': '', 'XLR': ''}
+scanned: Max Volume, dict_text: Bass, matches: 0
+scanned: 80, dict_text: Bass, matches: 0
+scanned: Audio Mode, dict_text: Bass, matches: 0
+scanned: Tone Enabłe, dict_text: Bass, matches: 0
+scanned: Bass, dict_text: Bass, matches: 4
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+0 0 0

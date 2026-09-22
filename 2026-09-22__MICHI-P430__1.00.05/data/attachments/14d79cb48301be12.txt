@@ -1,0 +1,31 @@
+dict: 4 Treble ['+10', '+9', '+8', '+7', '+6', '+5', '+4', '+3', '+2', '+1', '0', '-1', '-2', '-3', '-4', '-5', '-6', '-7', '-8', '-9', '-10']
+20
+transform: {'Max Volume': '80', 'Audio Mode': 'Tone nabłe', 'Bass': '+1', 'Treble': '+1', 'Balance': 'PC-USB Decoding', 'DSD/PCM 24B': 'HT Bypass', 'XLR': 'HT Bypass Level'}
+scanned: Max Volume, dict_text: Treble, matches: 1
+scanned: Audio Mode, dict_text: Treble, matches: 1
+scanned: Bass, dict_text: Treble, matches: 0
+scanned: Treble, dict_text: Treble, matches: 6
+scanned_setting_opt: +1
+matches: 0
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 1
+matches: 2
+curr_opt_pos: 9
+matches: 0
+matches: 1
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+11 20 9

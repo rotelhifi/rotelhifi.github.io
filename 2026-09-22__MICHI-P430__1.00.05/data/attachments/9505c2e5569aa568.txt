@@ -1,0 +1,23 @@
+dict: 9 Signal Sense ['Disabled', 'COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC']
+8
+transform: {'RC-USB Decoding': 'DSD/PCM 2AD', 'HT Bypass': 'VC', 'AUX': 'HT Bypass Level', '-2': 'Signal Sense', 'Disabled': 'Back'}
+scanned: RC-USB Decoding, dict_text: Signal Sense, matches: 0
+scanned: HT Bypass, dict_text: Signal Sense, matches: 1
+scanned: AUX, dict_text: Signal Sense, matches: 0
+scanned: -2, dict_text: Signal Sense, matches: 0
+scanned: Disabled, dict_text: Signal Sense, matches: 0
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+8 8 0
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.
+Connected to /dev/tty.PL2303-USBtoUART14130 at 115200 baud.

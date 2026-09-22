@@ -1,0 +1,51 @@
+dict: 1 Max Volume ['70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95', '96']
+10
+['Max Volume', '80', 'Audio Mode', 'Direct Bypass', 'Bass', 'Treble', 'Balance']
+first chuck: 80
+ insert blank row ['Max Volume', '80', '', 'Audio Mode', 'Direct Bypass', 'Bass', 'Treble', 'Balance']
+first chuck: Audio
+ insert blank row ['Max Volume', '80', '', 'Audio Mode', '', 'Direct Bypass', 'Bass', 'Treble', 'Balance']
+first chuck: Direct
+ insert blank row ['Max Volume', '80', '', 'Audio Mode', '', 'Direct Bypass', '', 'Bass', 'Treble', 'Balance']
+first chuck: Bass
+ insert blank row ['Max Volume', '80', '', 'Audio Mode', '', 'Direct Bypass', '', 'Bass', '', 'Treble', 'Balance']
+first chuck: Treble
+ insert blank row ['Max Volume', '80', '', 'Audio Mode', '', 'Direct Bypass', '', 'Bass', '', 'Treble', '', 'Balance']
+first chuck: Balance
+ insert blank row ['Max Volume', '80', '', 'Audio Mode', '', 'Direct Bypass', '', 'Bass', '', 'Treble', '', 'Balance', '']
+transform: {'80': '', 'Audio Mode': '', 'Direct Bypass': '', 'Bass': '', 'Treble': '', 'Balance': ''}
+scanned: 80, dict_text: Max Volume, matches: 0
+scanned: Audio Mode, dict_text: Max Volume, matches: 1
+scanned: Direct Bypass, dict_text: Max Volume, matches: 1
+scanned: Bass, dict_text: Max Volume, matches: 0
+scanned: Treble, dict_text: Max Volume, matches: 1
+scanned: Balance, dict_text: Max Volume, matches: 1
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+10 10 0

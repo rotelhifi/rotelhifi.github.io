@@ -1,0 +1,45 @@
+dict: 9 Signal Sense ['Disabled', 'COAX 1', 'COAX 2', 'COAX 3', 'OPT 1', 'OPT 2', 'OPT 3', 'PC-USB', 'BLUETOOTH', 'ARC']
+8
+['UP', 'PC-USB Decoding', 'DSD/PCM 24B', 'TBypass', 'AUX', 'HT Bypass Level', '-1', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: PC-USB
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', 'TBypass', 'AUX', 'HT Bypass Level', '-1', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: DSD/PCM
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', 'AUX', 'HT Bypass Level', '-1', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: TBypass
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', 'HT Bypass Level', '-1', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: AUX
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', '', 'HT Bypass Level', '-1', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: HT
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', '', 'HT Bypass Level', '', '-1', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: -1
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', '', 'HT Bypass Level', '', '-1', '', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: AUDIO
+delete: ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', '', 'HT Bypass Level', '', '-1', '', 'AUDIO', 'Signal Sense', 'BLUETOOTH', 'Back']
+first chuck: Signal
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', '', 'HT Bypass Level', '', '-1', '', 'AUDIO', 'Signal Sense', '', 'BLUETOOTH', 'Back']
+first chuck: BLUETOOTH
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', '', 'HT Bypass Level', '', '-1', '', 'AUDIO', 'Signal Sense', '', 'BLUETOOTH', '', 'Back']
+first chuck: Back
+ insert blank row ['UP', 'PC-USB Decoding', '', 'DSD/PCM 24B', '', 'TBypass', '', 'AUX', '', 'HT Bypass Level', '', '-1', '', 'AUDIO', 'Signal Sense', '', 'BLUETOOTH', '', 'Back', '']
+transform: {'PC-USB Decoding': '', 'DSD/PCM 24B': '', 'TBypass': '', 'AUX': '', 'HT Bypass Level': '', '-1': '', 'AUDIO': 'Signal Sense', '': 'Back'}
+scanned: PC-USB Decoding, dict_text: Signal Sense, matches: 0
+scanned: DSD/PCM 24B, dict_text: Signal Sense, matches: 0
+scanned: TBypass, dict_text: Signal Sense, matches: 1
+scanned: AUX, dict_text: Signal Sense, matches: 0
+scanned: HT Bypass Level, dict_text: Signal Sense, matches: 2
+scanned: -1, dict_text: Signal Sense, matches: 0
+scanned: AUDIO, dict_text: Signal Sense, matches: 0
+scanned: , dict_text: Signal Sense, matches: 0
+scanned_setting_opt: 
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+matches: 0
+8 8 0
+Can not open port!
